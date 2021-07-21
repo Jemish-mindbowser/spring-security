@@ -64,6 +64,4 @@ Response :
         }
 
 User Authorize button on swagger-ui on right top corner to set your JWT token for calling secure APIs
-add your token with "Bearer " 
-
-{"mode":"full","isActive":false}
+add your token with "Bearer "
